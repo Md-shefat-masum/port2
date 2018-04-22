@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Apr 2018 02:45:49 at http://skrollex.x40.ru/theme-luiza/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://skrollex.x40.ru/theme-luiza/ -O1 "G:\web design works and projects\projects\skrollax" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:50:29	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/favicon.ico (from skrollex.x40.ru/theme-luiza/)
+02:51:55	Warning: 	File not parsed, looks like binary: skrollex.x40.ru/theme-luiza/bower_components/fontawesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+02:51:55	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/fontawesome/fonts/fontawesome-webfont.woff?v=4.3.0 (from skrollex.x40.ru/theme-luiza/bower_components,_fontawesome,_css,_font-awesome.min.css+bower_components,_animate.css,_animate.min.css+bower_components,_minicolors,_jquery.minicolors.css+bower_components,_slick.js,_slick,_slick.css+bower_components,_slick.js,_slick,_slick-theme.css+bootstrap,_dist,_css,_bootstrap-custom.min.css+lib,_linecons,_style.css.pagespeed.cc.IgN_nvITvr.css)
+02:51:56	Warning: 	File not parsed, looks like binary: skrollex.x40.ru/theme-luiza/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+02:51:56	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/images/blog/848x433/x10.jpg.pagespeed.ic.WFTrnReiHS.jpg (from skrollex.x40.ru/theme-luiza/blog.html)
+02:52:08	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/theme-custom.css (from skrollex.x40.ru/theme-luiza/blog-single-1.html)
+02:52:17	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/modernizr/modernizr.js (from skrollex.x40.ru/theme-luiza/blog-single-1.html)
+02:52:17	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/jquery-cookie/jquery.cookie.js (from skrollex.x40.ru/theme-luiza/blog-single-1.html)
+02:52:17	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/jqBootstrapValidation/dist/jqBootstrapValidation-1.3.7.min.js (from skrollex.x40.ru/theme-luiza/blog-single-1.html)
+02:52:17	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/textillate/assets/jquery.fittext.js (from skrollex.x40.ru/theme-luiza/blog-single-1.html)
+02:52:19	Warning: 	Retry after error -4 (No data (connection closed)) at link skrollex.x40.ru/theme-luiza/bower_components/fontawesome/fonts/fontawesome-webfont.woff?v=4.3.0 (from skrollex.x40.ru/theme-luiza/bower_components,_fontawesome,_css,_font-awesome.min.css+bower_components,_animate.css,_animate.min.css+bower_components,_minicolors,_jquery.minicolors.css+bower_components,_slick.js,_slick,_slick.css+bower_components,_slick.js,_slick,_slick-theme.css+bootstrap,_dist,_css,_bootstrap-custom.min.css+lib,_linecons,_style.css.pagespeed.cc.IgN_nvITvr.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 39 seconds : 144 links scanned, 134 files written (11589952 bytes overall) [9670335 bytes received at 24236 bytes/sec], 3061468 bytes transferred using HTTP compression in 66 files, ratio 35%, 3.8 requests per connection
+(No errors, 11 warnings, 0 messages)
